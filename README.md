@@ -86,7 +86,7 @@ Aplicaciones (Word, Excel, juegos, navegadores)
 
 Programas utilitarios y controladores
 
-mi reflexion personal es la siguiente : pensamiento algoritmico es una materia muy interesante ya que te enseña profundamente a programar lo que hay que hacer es ponerle mucha dedicacion y esfuerzo para que sea entendida y comprendida a fondo ya que por lo general es uma materia siempre mnuy complicada pero es muy intersante .....
+mi reflexion personal es la siguiente : pensamiento algoritmico es una materia muy interesante ya que te enseña profundamente a programar lo que hay que hacer es ponerle mucha dedicacion y esfuerzo para que sea entendida y comprendida a fondo ya que por lo general es uma materia siempre mnuy complicada pero es muy intersante ......
 
 👉 En resumen: el software es todo lo que hace funcionar al hardware mediante instrucciones
 esto es lo que llevamos en las tres unidades que llevamos hastas el momento a continuacion les dare un ejemplo de paython 
