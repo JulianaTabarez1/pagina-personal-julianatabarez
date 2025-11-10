@@ -58,10 +58,35 @@ Es la parte lógica o intangible del sistema informático.
 Ejemplos de software:
 
 Sistemas operativos (Windows, Linux, macOS)
+# Programa que calcula la edad en el futuro
+
+ejemplo de python 
+# Pedir el nombre y la edad actual
+nombre = input("¿Cómo te llamas? ")
+edad = int(input("¿Cuántos años tienes? "))
+
+# Calcular edad dentro de 10 años
+edad_futura = edad + 10
+
+# Mostrar resultado
+print(f"Hola, {nombre}! En 10 años tendrás {edad_futura} años.")
+
+
+🔍 Qué hace este código:
+
+Usa input() para pedir datos al usuario.
+
+Convierte la edad a número con int().
+
+Calcula la edad dentro de 10 años.
+
+Imprime un mensaje con una f-string (f"...").
 
 Aplicaciones (Word, Excel, juegos, navegadores)
 
 Programas utilitarios y controladores
+
+mi reflexion personal es la siguiente : pensamiento algoritmico es una materia muy interesante ya que te enseña profundamente a programar lo que hay que hacer es ponerle mucha dedicacion y esfuerzo para que sea entendida y comprendida a fondo ya que por lo general es uma materia siempre mnuy complicada pero es muy intersante .....
 
 👉 En resumen: el software es todo lo que hace funcionar al hardware mediante instrucciones
 esto es lo que llevamos en las tres unidades que llevamos hastas el momento a continuacion les dare un ejemplo de paython 
